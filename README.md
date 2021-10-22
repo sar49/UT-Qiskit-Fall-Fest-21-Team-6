@@ -1,2 +1,3 @@
 # UT-Qiskit-Fall-Fest-21
-TODO write a desc
+In this project, we used Qiskit to implement a small game
+to learn about statevectors.

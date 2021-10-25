@@ -14,3 +14,6 @@ running our circuit on one of Qiskit's simulators under the branch of Qiskit Aer
 
 4.  From this experience I learned a great deal about the fundamentals of quantum computing and circuitry. At a high level, 
 gates and state vectors often get ignored but 
+
+
+Video Submission Link: https://youtu.be/UDMnLV61118
